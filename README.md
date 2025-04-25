@@ -1,3 +1,14 @@
+# Projeto Prático de Séries Televisivas
+
+Este é um projeto feito na linguagem C++ para manipular uma base de dados de séries televisivas. O objetivo é fornecer uma interface ao usuário e permitir algumas ações como busca, adição, remoção e ordenação de dados.
+
+## Integrantes
+Este projeto foi desenvolvido para a disciplina de Introdução aos Algoritmos pelos alunos:
+    [x] Gilmar Silva de Medeiros Filho
+    [x] Hugo Dias Pontello
+    [x] João Miguel Chaves Fernandes
+
+## Descrição do Projeto
 O código funciona mediante um arquivo .csv que contém dados variados sobre diversas séries televisivas. No arquivo se encontra informações como: Nome da série; 
 Ano de Lançamento; Personagem Principal e seu Ator; Quantidade de Visualizações na Estreia; Aprovação do Público; e Gênero. 
 (Obs_1.: Os dados são apenas para fins de uso no código, podem não corresponder à realidade.)
